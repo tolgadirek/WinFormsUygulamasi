@@ -1,6 +1,6 @@
 # Windows Form Uygulaması
 
-- Görsel Programlama dersi kapsamında yapmış olduğum .Net 8.0 destekli bir windows form uygulamasıdır.
+- Görsel Programlama dersi ödevi kapsamında yapmış olduğum .Net 8.0 destekli bir windows form uygulamasıdır.
 - Bu uygulama kullanıcıdan isim, soyisim, boy, kilo, doğum tarihi alarak vücut kitle indeksi hesaplayıp yorumluyor. Ayrıca doğum zamanına göre burcunu gösterip yorumluyor.
 - Tüm bu bilgiler SQLite veritabanına kaydediliyor.
 - Ayrıca ana ekranda daha önceden hesaplanmış veritabanında olan kişileri kişi listesinde göstererek istenilen kişinin bilgileri de açılabiliyor.
@@ -14,7 +14,7 @@
 
 - -----
 
-- It is a .Net 8.0 supported Windows form application that I made as part of the Visual Programming course.
+- It is a .Net 8.0 supported Windows form application that I made as part of the Visual Programming course homework.
 - This application calculates and interprets the body mass index by taking the user's name, surname, height, weight and date of birth. It also shows and interprets the zodiac sign according to the date of birth.
 - All this information is saved in the SQLite database.
 - In addition, the information of the desired person can be opened by showing the people in the previously calculated database in the person list on the main screen.
